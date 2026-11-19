@@ -2,4 +2,4 @@
 
 Name: Cameron Padilla
 
-python explore.py
+python explore.py, located in data
